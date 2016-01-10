@@ -1,0 +1,28 @@
+name: Max Fleetwood
+favicon: null
+layout_spectrum: 0.7266858031507581
+typography_spectrum: 0.7662381648551673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6211867085658014
+  lightness: 0.1326775043271482
+  saturation: 0.5466077262535691
+  rhythmicContrast: 0.06503525958396494
+purpose: []
